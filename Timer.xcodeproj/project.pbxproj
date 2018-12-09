@@ -12,6 +12,7 @@
 		CD0AF09C21BA99BD009D3DD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0AF09A21BA99BD009D3DD7 /* Main.storyboard */; };
 		CD0AF09E21BA99BF009D3DD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0AF09D21BA99BF009D3DD7 /* Assets.xcassets */; };
 		CD0AF0A121BA99BF009D3DD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0AF09F21BA99BF009D3DD7 /* LaunchScreen.storyboard */; };
+		CD0AF0A921BA9BC5009D3DD7 /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AF0A821BA9BC5009D3DD7 /* PickerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CD0AF09D21BA99BF009D3DD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD0AF0A021BA99BF009D3DD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD0AF0A221BA99BF009D3DD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD0AF0A821BA9BC5009D3DD7 /* PickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CD0AF09621BA99BD009D3DD7 /* AppDelegate.swift */,
 				CD0AF09821BA99BD009D3DD7 /* ViewController.swift */,
 				CD0AF09A21BA99BD009D3DD7 /* Main.storyboard */,
+				CD0AF0A821BA9BC5009D3DD7 /* PickerViewController.swift */,
 				CD0AF09D21BA99BF009D3DD7 /* Assets.xcassets */,
 				CD0AF09F21BA99BF009D3DD7 /* LaunchScreen.storyboard */,
 				CD0AF0A221BA99BF009D3DD7 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD0AF0A921BA9BC5009D3DD7 /* PickerViewController.swift in Sources */,
 				CD0AF09921BA99BD009D3DD7 /* ViewController.swift in Sources */,
 				CD0AF09721BA99BD009D3DD7 /* AppDelegate.swift in Sources */,
 			);
